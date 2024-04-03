@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+.my-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.go{
+    color: green;
+}
+.stop{
+    color: red;
+}
